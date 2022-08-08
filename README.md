@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @nouranHisham
-- 👀 I’m interested in frontend web development and machine learning.
-- 🌱 I’m currently learning backened web development and mobile developmemt.
-- 📫 How to reach me linkedin.com/in/nouran-hisham-a0681a20b/
-
-<h5>-----------------------------------------------------------------------------------------------------------------------------------------------------------------</h5>
+- 👀 I’m interested in web development and machine learning.
+- 🌱 I’m currently learning machine learning.
+- 📫 How to reach me hishamnouran4@gmail.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nouranHisham&theme=radical&show_icons=true&count_private=true)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nouranHisham&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nouranHisham&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -28,10 +30,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nouranHisham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 nouranHisham/nouranHisham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
