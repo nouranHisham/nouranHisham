@@ -3,11 +3,7 @@
 - 🌱 I’m currently learning machine learning.
 - 📫 How to reach me hishamnouran4@gmail.com
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=nouranHisham&theme=radical&show_icons=true&count_private=true)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nouranHisham&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nouranHisham&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
