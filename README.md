@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @nouranHisham
-- 👀 I’m interested in web development and machine learning.
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m currently working as a big data engineer 
+and trying to refresh my web development knowledge.
 - 📫 How to reach me hishamnouran4@gmail.com
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nouranHisham&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
